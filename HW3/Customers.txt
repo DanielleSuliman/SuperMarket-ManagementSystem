@@ -1,0 +1,22 @@
+7
+
+Shalom Ha Ari
+1 45.700001
+
+Tamar Choen
+5 882.400024
+
+Moshe Ben Daviv
+3 1230.599976
+
+Micah Avi Levi
+5 1230.900024
+
+Yaffa Beri
+7 2340.899902
+
+almito
+0 0.000000
+
+royyy
+0 0.000000
